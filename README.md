@@ -1,39 +1,48 @@
-<h2 align="left">Olá 👋! Meu nome é Vinicius Candeia e sou um desenvolvedor mobile.</h2>
+# Olá, eu sou Vinicius Candeia! 👋
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="viniciuscandeia12@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+<p align="center">
+  <a href="https://www.zooxsmart.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Empresa-Zoox_Smart_Data-blue?style=for-the-badge" alt="Zoox Smart Data"/>
   </a>
-  <a href="www.linkedin.com/in/vinicius-candeia" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.ufpb.br/" target="_blank">
+    <img src="https://img.shields.io/badge/Formação-UFPB_|_CS-green?style=for-the-badge" alt="UFPB | Ciência da Computação"/>
   </a>
-</div>
+</p>
 
-###
+<p align="center">
+  Desenvolvedor Backend (24 anos) | 📌 João Pessoa, Paraíba, Brasil
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viniciuscandeia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciuscandeia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+### 🚀 Sobre Mim
 
-<img src="https://raw.githubusercontent.com/viniciuscandeia/viniciuscandeia/output/snake.svg" alt="Snake animation" />
+Sou um Desenvolvedor Backend e estudante de Ciência da Computação na UFPB. Atualmente, trabalho na **Zoox Smart Data**, onde ajudo a criar soluções inovadoras com foco em dados.
 
-###
+### 📫 Como me encontrar
+<p align="center">
+  <a href="https://www.linkedin.com/in/[SEU-USUARIO-LINKEDIN]" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:[SEU-EMAIL@exemplo.com]" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
+---
+
+### 📊 Minhas Estatísticas no GitHub
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-GITHUB&layout=compact&langs_count=7&theme=dracula"/>
+</p>
+
+### 🛠️ Tecnologias que utilizo
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
